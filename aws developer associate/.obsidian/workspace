@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5ab620bb0317a012",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5b86dea5b90d58",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lambda.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffeb3e9673d0add2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0146aec9a3847f3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98430fabdc695f2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a716ad10ed3f9d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "05a354f1fb34c138",
+    "type": "split",
+    "children": [
+      {
+        "id": "709c5a7f84e9997a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba7b7211fb0a2ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lambda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3f5b86dea5b90d58",
+  "lastOpenFiles": [
+    "Lambda.md",
+    "Serverless computing.md",
+    "Cloudfront.md",
+    "SQS.md",
+    "Kinesis.md",
+    "CloudFormation.md",
+    "Elastic Container Service.md",
+    "CodePipeline.md",
+    "CodeDeploy.md",
+    "CodeCommit.md"
+  ]
+}

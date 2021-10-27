@@ -58,7 +58,7 @@
   sudo apt install ansible
   ```
 - List các host cần quản lý trong file inventory
-  ```
+  ```cl
   [servers]
   server_alias ansible_host=xxx.xxx.x.xx ansible_ssh_user=username
   [all:vars]
